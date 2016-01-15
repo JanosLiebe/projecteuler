@@ -1,2 +1,0 @@
-# projecteuler
-Project Euler
